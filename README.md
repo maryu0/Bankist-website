@@ -1,1 +1,45 @@
-# Bankist-website
+# 🏦 Bankist Website
+
+**Bankist Website** is a modern and responsive banking platform designed to provide a seamless online banking experience. Built with a focus on performance and user-friendly navigation, this project enhances UI/UX by integrating smooth scrolling, interactive elements, and optimized loading techniques.
+
+---
+
+## 📌 Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+- [Live Demo](#live-demo)
+- [Contact](#contact)
+
+---
+
+## 📝 About the Project
+
+The **Bankist Website** simulates an online banking experience, demonstrating modern **web design principles** and **interactive functionalities**. This project helped refine my front-end development skills, with a particular focus on **lazy-loading images**, **smooth scrolling**, and **optimized performance**.
+
+### 🔹 Key Highlights:
+
+- A professional **homepage with a sleek design**
+- Features **smooth scrolling** for an enhanced user experience
+- **Lazy-loading images** to improve performance and loading speed
+- **Optimized animations and transitions** for a dynamic feel
+
+---
+
+## 🚀 Features
+
+- 🌟 **Fully Responsive Design** — Adapts to all screen sizes
+- 🖱️ **Smooth Scrolling** — Enhanced navigation for a seamless experience
+- 🖼️ **Lazy-Loading Images** — Improves page speed and performance
+- 🔄 **Interactive Elements** — Engaging UI with smooth transitions
+- 📱 **Mobile-Friendly** — Optimized for all devices
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML** — Structuring the website
+- **CSS** — Styling and layout for a polished look
+- **JavaScript** — Adding interactivity and animations
