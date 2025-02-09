@@ -26,6 +26,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 - **Lazy-loading images** to improve performance and loading speed
 - **Optimized animations and transitions** for a dynamic feel
 - **Responsive design** for seamless viewing on various devices
+- **Interactive elements**, such as dropdown menus and accordion sections.
 
 ---
 
