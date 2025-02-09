@@ -43,3 +43,10 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 - **HTML** — Structuring the website
 - **CSS** — Styling and layout for a polished look
 - **JavaScript** — Adding interactivity and animations
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/maryu0/bankist-website.git
+   ```
