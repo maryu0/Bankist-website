@@ -54,3 +54,4 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
    ```bash
    cd bankist-website
    ```
+3. Open the index.html file in your browser to view the project.
