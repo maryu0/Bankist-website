@@ -50,3 +50,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
    ```bash
    git clone https://github.com/maryu0/bankist-website.git
    ```
+2. Navigate to the project folder:
+   ```bash
+   cd bankist-website
+   ```
