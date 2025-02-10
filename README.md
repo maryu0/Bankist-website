@@ -27,6 +27,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 - **Optimized animations and transitions** for a dynamic feel.
 - **Responsive design** for seamless viewing on various devices.
 - **Interactive elements**, such as dropdown menus and accordion sections.
+- **Modern web design principles**, including a clean layout and intuitive navigation.
 
 ---
 
