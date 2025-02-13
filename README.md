@@ -34,7 +34,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 ## 🚀 Features
 
 - **Fully Responsive Design** — Adapts to all screen sizes
-- 🖱️ **Smooth Scrolling** — Enhanced navigation for a seamless experience
+- **Smooth Scrolling** — Enhanced navigation for a seamless experience
 - 🖼️ **Lazy-Loading Images** — Improves page speed and performance
 - 🔄 **Interactive Elements** — Engaging UI with smooth transitions
 - 📱 **Mobile-Friendly** — Optimized for all devices
