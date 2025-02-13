@@ -50,7 +50,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 
 ## How to Use
 
-1. Clone the repository on your system:
+1. Clone the repo on your system:
    ```bash
    git clone https://github.com/maryu0/bankist-website.git
    ```
