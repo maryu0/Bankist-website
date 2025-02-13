@@ -38,7 +38,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 - **Lazy-Loading Images** — Improves page speed and performance
 - **Interactive Elements** — Engaging UI with smooth transitions
 - **Mobile-Friendly** — Optimized for all devices
-- 📊 **Optimized Performance** — Fast loading times and efficient rendering
+- **Optimized Performance** — Fast loading times and efficient rendering
 
 ---
 
