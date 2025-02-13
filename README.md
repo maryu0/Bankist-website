@@ -19,15 +19,15 @@
 
 The **Bankist Website** simulates an online banking experience, demonstrating modern **web design principles** and **interactive functionalities**. This project helped refine my front-end development skills, with a particular focus on **lazy-loading images**, **smooth scrolling**, and **optimized performance**.
 
-### 🔹 Key Highlights:
+### 🔹 **Key Highlights:**
 
-- A professional **homepage with a sleek design**
-- Features **smooth scrolling** for an enhanced user experience.
-- **Lazy-loading images** to improve performance and loading speed.
-- **Optimized animations and transitions** for a dynamic feel.
-- **Responsive design** for seamless viewing on various devices.
-- **Interactive elements**, such as dropdown menus and accordion sections.
-- **Modern web design principles**, including a clean layout and intuitive navigation.
+- ✨**Sleek & Professional Design** – A well-structured homepage with a modern aesthetic.
+- 🎯 **Smooth Scrolling** – Enhances user experience with effortless navigation.
+- 🚀 **Lazy-Loading Images** – Optimized performance with efficient resource loading.
+- 🎬 **Optimized Animations & Transitions** – Delivers a dynamic and engaging feel.
+- 📱 **Fully Responsive** – Adapts seamlessly across all screen sizes and devices.
+- 🛠️ **Interactive Elements** – Includes dropdown menus, accordion sections, and more.
+- 🎨 **Modern Web Design Principles** – Clean layout, intuitive navigation, and optimized UI.
 
 ---
 
