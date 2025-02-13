@@ -27,7 +27,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 - 🎬 **Optimized Animations & Transitions** – Delivers a dynamic and engaging feel.
 - 📱 **Fully Responsive** – Adapts seamlessly across all screen sizes and devices.
 - 🛠️ **Interactive Elements** – Includes dropdown menus, accordion sections, and more.
-- 🎨 **Modern Web Design Principles** – Clean layout, intuitive navigation, and optimized UI.
+- **Modern Web Design Principles** – Clean layout, intuitive navigation, and optimized UI.
 
 ---
 
