@@ -23,7 +23,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 
 - ✨**Sleek & Professional Design** – A well-structured homepage with a modern aesthetic.
 - 🎯 **Smooth Scrolling** – Enhances user experience with effortless navigation.
-- 🚀 **Lazy-Loading Images** – Optimized performance with efficient resource loading.
+- **Lazy-Loading Images** – Optimized performance with efficient resource loading.
 - **Optimized Animations & Transitions** – Delivers a dynamic and engaging feel.
 - **Fully Responsive** – Adapts seamlessly across all screen sizes and devices.
 - **Interactive Elements** – Includes dropdown menus, accordion sections, and more.
