@@ -1,4 +1,4 @@
-# 🏦 Bankist Website
+# Bankist Website
 
 **Bankist Website** is a modern, responsive, and high-performance online banking platform designed to deliver a seamless user experience. With an emphasis on intuitive navigation and enhanced UI/UX, it incorporates smooth scrolling, interactive elements, and optimized loading strategies to ensure efficiency and engagement. The platform is built to provide a fast, secure, and visually appealing banking experience for users.
 
