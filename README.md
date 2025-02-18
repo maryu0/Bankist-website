@@ -42,7 +42,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML** — Structuring the website
 - **CSS** — Styling and layout for a polished look
