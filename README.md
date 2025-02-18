@@ -62,7 +62,7 @@ The **Bankist Website** simulates an online banking experience, demonstrating mo
 
 ## Contact
 
-For any questions, feedback, or collaboration opportunities, feel free to reach out:
+For any questions, feedback, or collaboration opportunities, feel free to reach out to me at:
 
 - **Name:** Ayush(@maryu0)
 - **Email:** [maryu.3738@gmail.com](mailto:maryu.3738@gmail.com)
