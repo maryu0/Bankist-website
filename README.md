@@ -15,7 +15,7 @@
 
 ---
 
-## 📝 About the Project
+## About the Project
 
 The **Bankist Website** simulates an online banking experience, demonstrating modern **web design principles** and **interactive functionalities**. This project helped refine my front-end development skills, with a particular focus on **lazy-loading images**, **smooth scrolling**, and **optimized performance**.
 
